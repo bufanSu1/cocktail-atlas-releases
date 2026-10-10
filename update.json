@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "tag": "android-v6",
-  "name": "Cocktail Atlas V0.6",
-  "url": "https://github.com/bufanSu1/cocktail-atlas-releases/releases/download/android-v6/CocktailAtlas.apk",
-  "sha256": "9c572bd3c149042e7662b5a855d53d661892b9e7cbb0677ef034ae7901b3b3ae"
+  "versionCode": 7,
+  "tag": "android-v7",
+  "name": "Cocktail Atlas V0.7",
+  "url": "https://github.com/bufanSu1/cocktail-atlas-releases/releases/download/android-v7/CocktailAtlas.apk",
+  "sha256": "46a1bfeba2312b5e92c6333b210a362ee24ff4bcf76e4bb76c40a1aae01f2e3f"
 }
